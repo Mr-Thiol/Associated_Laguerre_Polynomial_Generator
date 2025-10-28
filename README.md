@@ -2,7 +2,7 @@
 
 这是一个使用 Python、Tkinter、SymPy 和 Matplotlib 开发的桌面 GUI 应用程序，用于生成指定阶数 $n$ 和 $l$ 的连带拉盖尔多项式：
 
-$L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$。
+$L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$
 
 ![screenshot](.//screenshot.png)
 
