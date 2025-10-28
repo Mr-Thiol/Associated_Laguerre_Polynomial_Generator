@@ -25,7 +25,7 @@ $L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$�
 
 为 Windows 用户提供的可执行文件 (.exe)，无需安装 Python 或任何库。
 
-1.  访问本仓库的 **[Releases 页面](https://github.com/YourUsername/YourRepoName/releases)**。
+1.  访问本仓库的 **[Releases 页面](https://github.com/Mr-Thiol/Associated_Laguerre_Polynomial_Generator/releases)**。
 2.  下载最新版本（如 `v1.0.0`）下的 `laguerre_gui.exe` 文件。
 3.  双击运行。
 
@@ -35,7 +35,7 @@ $L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$�
 
 1.  **克隆仓库**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone [https://github.com/Mr-Thiol/Associated_Laguerre_Polynomial_Generator](https://github.com/Mr-Thiol/Associated_Laguerre_Polynomial_Generator)
     cd laguerre-polynomial-generator
     ```
 
