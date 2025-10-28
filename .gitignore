@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Conda 环境文件夹
+/pack_env/
+/env/
+
+# PyInstaller 临时文件
+/build/
+/dist/
+*.spec
+
+# IDE 和系统文件
+.vscode/
+.idea/
+*.DS_Store
