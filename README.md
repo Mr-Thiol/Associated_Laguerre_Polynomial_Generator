@@ -19,6 +19,12 @@ $L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$
 
 ## 如何使用
 
+### 注意事项
+
+1. 当$n$、$l$较大时，公式可能显示不完整。此时调小字体或是点击Latex公式复制键即可。
+
+2. Releases中的.exe文件可能System-Dependent，请注意使用Windows系统打开。
+
 有两种方式来运行这个程序：
 
 ### 方式 A：直接下载 (推荐)
