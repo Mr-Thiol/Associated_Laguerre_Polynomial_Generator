@@ -21,7 +21,7 @@ $L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$
 
 ### 注意事项
 
-1. 当$n$、$l$较大时，公式可能显示不完整。此时调小字体或是点击Latex公式复制键即可。
+1. 当 $n$ 、 $l$ 较大时，公式可能显示不完整。此时调小字体或是点击Latex公式复制键即可。
 
 2. Releases中的.exe文件可能System-Dependent，请注意使用Windows系统打开。
 
@@ -65,3 +65,17 @@ $L_n^l(x) = \displaystyle\sum_{k=0}^{n} (-1)^k \binom{n+l}{n-k} \frac{x^k}{k!}$
 Thank you, Gemini 2.5 Pro!
 
 Gemini has taught me how to polish my code, generate .exe file, and commit my work to GitHub. Thank you again! :+1:
+
+---
+
+# Quantum Chemistry, Homework 7, Question 3: 氢原子径向 $R(r)$ - $r$ 图像绘制
+
+源代码详见`HW7_Q3.py`，生成的图片详见`R(r)-r plot.png`。
+
+---
+
+## Acknowledgement
+
+Thank you, Claude Sonnet 4.5!
+
+Claude has directly generated the code, and what I did was just to modify some parameters. Thank you agian! :+1:
