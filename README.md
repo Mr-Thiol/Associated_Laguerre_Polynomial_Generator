@@ -66,8 +66,6 @@ Thank you, Gemini 2.5 Pro!
 
 Gemini has taught me how to polish my code, generate .exe file, and commit my work to GitHub. Thank you again! :+1:
 
----
-
 # Quantum Chemistry, Homework 7, Question 3: 氢原子径向 $R(r)$ - $r$ 图像绘制
 
 源代码详见`HW7_Q3.py`，生成的图片详见`R(r)-r plot.png`。
